@@ -1,3 +1,6 @@
+### script for lane keeping with semantic segmentation camera
+### not usable for now !!!!
+
 def step(self,action):
     return obs, reward, done, extra_info
 
