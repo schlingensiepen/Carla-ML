@@ -1,3 +1,5 @@
+### TO MANUALLY FIND WAYPOINTS ON ANY CARLA MAP
+
 import glob
 import os
 import sys
